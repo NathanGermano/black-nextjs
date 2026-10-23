@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "name": "Macbook Air",
+    "name": "MacBook Air",
     "description": "Uma potência no ar. O chip M1 da Apple revolucionou nosso notebook mais fino e leve.",
     "price": 12508.0,
-    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbook-air-202011",
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=800&hei=800&fmt=jpeg&qlt=90",
     "inStock": 50
   },
   {
     "id": 2,
-    "name": "Macbook Pro",
+    "name": "MacBook Pro",
     "description": "Potência pura para profissionais. O MacBook Pro mais poderoso de todos chegou.",
     "price": 25979.0,
-    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbook-pro-202110",
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spacegray-select-202310?wid=800&hei=800&fmt=jpeg&qlt=90",
     "inStock": 50
   },
   {
@@ -20,7 +20,7 @@
     "name": "iPhone 15 Pro",
     "description": "Titânio resistente e leve, chip A17 Pro com desempenho gráfico revolucionário e sistema de câmera avançado.",
     "price": 9299.0,
-    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch",
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-bluetitanium?wid=800&hei=800&fmt=jpeg&qlt=90",
     "inStock": 50
   },
   {
@@ -28,7 +28,7 @@
     "name": "iPhone 15",
     "description": "Ilha Dinâmica, câmera principal de 48 MP e design em vidro colorido resistente com alumínio.",
     "price": 7299.0,
-    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch",
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch-black?wid=800&hei=800&fmt=jpeg&qlt=90",
     "inStock": 50
   },
   {
@@ -36,95 +36,64 @@
     "name": "iPad Pro",
     "description": "A experiência definitiva com o iPad com a tela Ultra Retina XDR e o incrível desempenho do chip M4.",
     "price": 11299.0,
-    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-select-202405-11inch",
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-13-select-wifi-spaceblack-202405?wid=800&hei=800&fmt=jpeg&qlt=90",
     "inStock": 50
   },
+
   {
     "id": 6,
-    "name": "iPad Air",
-    "description": "Desempenho extraordinário com o chip M2 em um design fino, leve e versátil.",
-    "price": 6999.0,
-    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-202405-11inch",
+    "name": "AirPods Pro",
+    "description": "Cancelamento Ativo de Ruído até duas vezes mais potente e Áudio Espacial personalizado.",
+    "price": 2599.0,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQD83?wid=800&hei=800&fmt=jpeg&qlt=90",
     "inStock": 50
   },
   {
     "id": 7,
-    "name": "Apple Watch Series 9",
-    "description": "Mais brilhante, inteligente e com um jeito mágico de usar o relógio sem tocar na tela.",
-    "price": 4999.0,
-    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-s9-202309",
+    "name": "iMac 24\"",
+    "description": "Tudo em um. Supercharged pelo chip M3, com uma tela Retina 4.5K espetacular e design ultrafino.",
+    "price": 14499.0,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac-24-blue-selection-hero-202310?wid=800&hei=800&fmt=jpeg&qlt=90",
     "inStock": 50
   },
   {
     "id": 8,
-    "name": "Apple Watch Ultra 2",
-    "description": "O relógio esportivo mais robusto e capaz do mundo, projetado para aventuras extremas.",
-    "price": 9699.0,
-    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-ultra-202309",
+    "name": "Mac mini",
+    "description": "Compacto por fora, gigante por dentro com o poder dos chips M2 e M2 Pro.",
+    "price": 7499.0,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-mini-hero-202301?wid=800&hei=800&fmt=jpeg&qlt=90",
     "inStock": 50
   },
   {
     "id": 9,
-    "name": "AirPods Pro",
-    "description": "Cancelamento Ativo de Ruído até duas vezes mais potente e Áudio Espacial personalizado.",
-    "price": 2599.0,
-    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-pro-2-hero-select-202209",
+    "name": "Mac Studio",
+    "description": "Desempenho fora de série com os chips M2 Max e M2 Ultra em um formato compacto de mesa.",
+    "price": 22999.0,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-studio-select-202306?wid=800&hei=800&fmt=jpeg&qlt=90",
     "inStock": 50
   },
   {
     "id": 10,
-    "name": "iMac 24\"",
-    "description": "Tudo em um. Supercharged pelo chip M3, com uma tela Retina 4.5K espetacular e design ultrafino.",
-    "price": 14499.0,
-    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac-24-citrus-selection-202310",
+    "name": "Apple Studio Display",
+    "description": "Tela Retina 5K imersiva de 27 polegadas com câmara de 12 MP com Palco Central e som estéreo de alta fidelidade.",
+    "price": 14799.0,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/studio-display-gallery-1-202203?wid=800&hei=800&fmt=jpeg&qlt=90",
     "inStock": 50
   },
   {
     "id": 11,
-    "name": "Mac mini",
-    "description": "Compacto por fora, gigante por dentro com o poder dos chips M2 e M2 Pro.",
-    "price": 7499.0,
-    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-mini-hero-select-202301",
+    "name": "iPad mini",
+    "description": "Toda a potência do iPad na palma da sua mão com uma tela Liquid Retina de 8,3 polegadas.",
+    "price": 6299.0,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-mini-select-wifi-space-gray-202109?wid=800&hei=800&fmt=jpeg&qlt=90",
     "inStock": 50
   },
   {
     "id": 12,
-    "name": "Mac Studio",
-    "description": "Desempenho fora de série com os chips M2 Max e M2 Ultra em um formato compacto de mesa.",
-    "price": 22999.0,
-    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-studio-select-202306",
-    "inStock": 50
-  },
-  {
-    "id": 13,
-    "name": "Apple Studio Display",
-    "description": "Tela Retina 5K imersiva de 27 polegadas com câmara de 12 MP com Palco Central e som estéreo de alta fidelidade.",
-    "price": 14799.0,
-    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/studio-display-hero-select-202203",
-    "inStock": 50
-  },
-  {
-    "id": 14,
-    "name": "iPad mini",
-    "description": "Toda a potência do iPad na palma da sua mão com uma tela Liquid Retina de 8,3 polegadas.",
-    "price": 6299.0,
-    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-mini-select-202109",
-    "inStock": 50
-  },
-  {
-    "id": 15,
     "name": "AirPods (3ª geração)",
     "description": "Áudio Espacial com rastreamento dinâmico da cabeça e resistência ao suor e à água.",
     "price": 1999.0,
-    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-3rd-gen-hero-select-202110",
-    "inStock": 50
-  },
-  {
-    "id": 16,
-    "name": "HomePod",
-    "description": "Áudio de alta fidelidade que preenche o ambiente e assistente inteligente integrado.",
-    "price": 3299.0,
-    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/homepod-select-midnight-202210",
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73?wid=800&hei=800&fmt=jpeg&qlt=90",
     "inStock": 50
   }
 ]

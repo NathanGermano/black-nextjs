@@ -3,17 +3,15 @@ import Link from "next/link";
 const Header = () => {
   return (
     <nav className="flex justify-between items-center p-4 px-10 bg-black">
-      <Link href="/" passHref>
-        <a className="no-underline text-white">
-          <img className="w-45" src="/logo.png" alt="logo" />
-        </a>
+      <Link href="/" className="text-white">
+        <img className="w-45" src="/logo.png" alt="logo" />
       </Link>
       <div className="flex gap-10 font-medium">
-        <Link href="/products" passHref>
-          <a className="no-underline text-white">Produtcs</a>
+        <Link href="/products" className="text-white">
+          Produtcs
         </Link>
-        <Link href="/cart" passHref>
-          <a className="no-underline text-white">Cart</a>
+        <Link href="/cart" className="text-white">
+          Cart
         </Link>
       </div>
     </nav>
