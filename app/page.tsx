@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import Button from "./components/Button";
 
 export const metadata: Metadata = {
   title: "Página Home",
@@ -20,9 +20,7 @@ export default function Home() {
           voluptates.
         </p>
       </div>
-      <Link href="/products" className="p-3 bg-black text-white rounded-sm">
-        Nossos Produtos
-      </Link>
+      <Button address={"/products"} />
     </section>
   );
 }

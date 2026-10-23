@@ -1,6 +1,7 @@
 import { ProductType } from "../services/products";
 import Link from "next/link";
 import Image from "next/image";
+import Button from "./Button";
 
 type ProductTypeProps = {
   product: ProductType;
@@ -31,12 +32,7 @@ const Card: React.FC<ProductTypeProps> = ({ product }) => {
           R$ {product.price.toString()}
         </p>
       </div>
-      <Link
-        href={`/cart/${product.id}`}
-        className="w-full p-3 bg-black text-white text-center font-medium rounded-md hover:bg-zinc-800 transition-colors"
-      >
-        Comprar
-      </Link>
+      <Button address={`/cart/${product.id}`} />
     </div>
   );
 };
